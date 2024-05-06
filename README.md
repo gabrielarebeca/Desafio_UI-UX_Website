@@ -11,7 +11,7 @@ https://www.figma.com/file/Il4X9FPWNPpNuJeDbGRKJ6/Site_Kick?type=design&node-id=
 <h4> Tags Header, Nav, Article e Footer</h4>
   
 ![image](https://github.com/gabrielarebeca/Desafio_UI-UX_Website/assets/110422932/9a712933-4d7e-424a-8782-3a021ddd7e34)
-![image](https://github.com/gabrielarebeca/Desafio_UI-UX_Website/assets/110422932/54802164-baaf-4d3e-948b-04a6bbde88cc)
+![image](https://github.com/gabrielarebeca/Desafio_UI-UX_Website/assets/110422932/b83cee63-103e-42a8-927b-2a3fa97a1d55)
 
 
 
