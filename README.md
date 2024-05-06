@@ -12,4 +12,7 @@ https://www.figma.com/file/Il4X9FPWNPpNuJeDbGRKJ6/Site_Kick?type=design&node-id=
 
 <h2> Conteúdo Personagens <h2>
 
+![image](https://github.com/gabrielarebeca/Desafio_UI-UX_Website/assets/110422932/9a712933-4d7e-424a-8782-3a021ddd7e34)
+
+
 
