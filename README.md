@@ -1,4 +1,4 @@
-<h1>Link Figma</h1>
+<h2>Link Figma</h2>
 https://www.figma.com/file/Il4X9FPWNPpNuJeDbGRKJ6/Site_Kick?type=design&node-id=0-1&mode=design&t=qt4FryVGqqqWmt5q-0
 
 <h2>Tela Página Home</h2>
